@@ -16,3 +16,4 @@ Iniciei o desafio dia 18/05/2020, de inicio estarei fazendo projetos mais simple
 ## Projetos
 - Day001(18/05/2020): Light/Dark Theme
 - Day002(19/05/2020): Clock with JS
+- Day003(20/05/2020): Timer
