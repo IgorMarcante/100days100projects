@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  /* background-color: #222222;
+  color: #fafafa; */
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.clock-box {
+  background: #222222;
+  color: #fafafa;
+  border-radius: 8px;
+  padding: 8px;
+}
