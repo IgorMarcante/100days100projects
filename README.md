@@ -18,4 +18,4 @@ Iniciei o desafio dia 18/05/2020, de inicio estarei fazendo projetos mais simple
 - Day002(19/05/2020): Clock with JS
 - Day003(20/05/2020): Timer
 - Day004(21/05/2020): CPF Validator
-- Day004(22/05/2020): Repositories GitHub
+- Day005(22/05/2020): Repositories GitHub
