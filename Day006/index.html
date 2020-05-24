@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blood type</title>
+</head>
+<body>
+
+  <div class="container">
+    <h4>Blood type</h4>
+    <p>Select a blood type and see who are compatible and can receive</p>
+    <button onclick="handleBloodType('AB-');" id="ab-" class="bg-default">AB -</button>
+    <button onclick="handleBloodType('AB+');" id="ab+" class="bg-default">AB +</button>
+    <button onclick="handleBloodType('A-');" id="a-" class="bg-default">A -</button>
+    <button onclick="handleBloodType('A+');" id="a+" class="bg-default">A +</button>
+    <button onclick="handleBloodType('B-');" id="b-" class="bg-default">B -</button>
+    <button onclick="handleBloodType('B+');" id="b+" class="bg-default">B +</button>
+    <button onclick="handleBloodType('O-');" id="o-" class="bg-default">O -</button>
+    <button onclick="handleBloodType('O+');" id="o+" class="bg-default">O +</button>
+    <p>Legend: </p>
+    <ul>
+      <li>Border Grey: Selected and compatible</li>
+      <li>Border Green: Compatible</li>
+      <li>Background Grey: Not Compatible</li>
+    </ul>
+  </div>
+  <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
