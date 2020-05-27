@@ -21,3 +21,5 @@ Iniciei o desafio dia 18/05/2020, de inicio estarei fazendo projetos mais simple
 - Day005(22/05/2020): Repositories GitHub
 - Day006(23/05/2020): Blood Type
 - Day007(24/05/2020): Decimal to Binary
+- Day008(25/05/2020): Github Status
+- Day009(26/05/2020): Accordion
