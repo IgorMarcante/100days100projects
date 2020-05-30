@@ -25,3 +25,4 @@ Iniciei o desafio dia 18/05/2020, de inicio estarei fazendo projetos mais simple
 - Day009(26/05/2020): Accordion
 - Day010(27/05/2020): Wave Animation
 - Day011(28/05/2020): Card Animation
+- Day012(29/05/2020): Typing Effect
