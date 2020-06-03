@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+    background: #ffffe7;
+}
+
+.tooltip {
+    background: #00b6ff;
+    color: #fff;
+    padding: 1em;
+    border-radius: 10px;
+    width: 250px;
+    clip-path: circle(8% at 90% 20%);
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+}
+
+.tooltip:hover {
+    clip-path: circle(100%);
+}
+
+.tooltip:hover span {
+    opacity: 0;
+}
+
+.icon {
+    float: right;
+    font-weight: bold;
+    margin-right: 3%;
+    margin-top: -2%;
+    transition: opacity 0.3s;
+}
