@@ -29,4 +29,5 @@ Iniciei o desafio dia 18/05/2020, de inicio estarei fazendo projetos mais simple
 - Day013(30/05/2020): Gradient Animation
 - Day014(31/05/2020): Reveal Effect
 - Day015(01/06/2020): Tooltip Effect
-- Day016(02/06/2020) Here Image
+- Day016(02/06/2020): Here Image
+- Day016(03/06/2020): Traffic Light
